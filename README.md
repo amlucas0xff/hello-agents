@@ -2,6 +2,8 @@
   <a href="./README_EN.md">English</a> | Português | <a href="./README_ZH.md">中文</a>
 </div>
 
+> **Nota:** Este é um fork do projeto [datawhalechina/Hello-Agents](https://github.com/datawhalechina/Hello-Agents) com tradução para Português Brasileiro (PT-BR). O projeto original está em Chinês com tradução para Inglês. Esta versão foi criada para facilitar o acesso da comunidade lusófona ao conteúdo.
+
 <div align='center'>
   <img src="./docs/images/hello-agents.png" alt="alt text" width="100%">
   <h1>Hello-Agents</h1>
