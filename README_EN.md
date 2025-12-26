@@ -1,5 +1,5 @@
 <div align="right">
-  English | <a href="./README_PT.md">Português</a> | <a href="./README.md">中文</a>
+  English | <a href="./README.md">Português</a> | <a href="./README_ZH.md">中文</a>
 </div>
 
 <div align='center'>
